@@ -197,12 +197,7 @@ Below are screenshots of the deployed application showing the main features and 
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Contact
 
 For any issues or questions, open an issue on [GitHub Issues](https://github.com/IHRM-AI/local-food-waste/issues) or contact the maintainer at [github.com/IHRM-AI](https://github.com/IHRM-AI).
+## Linkedin ID - (https://www.linkedin.com/in/ihrm-ishan/)
