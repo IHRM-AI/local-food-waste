@@ -114,6 +114,31 @@ The app will launch at [http://localhost:8501](http://localhost:8501).
 - **Filters:** Use sidebar filters to narrow down listings and insights.
 
 ---
+---
+
+## Deployment Screenshots
+
+Below are screenshots of the deployed application showing the main features and pages:
+
+### 1. Main Page
+![Main Page](images/image1.png)
+
+### 2. Claims Page
+![Claims Page](images/image6.png)
+
+### 3. Dashboard Page
+![Dashboard Page](images/image5.png)
+
+### 4. Insights Page
+![Insights Page](images/image2.png)
+
+### 5. Listings Page
+![Listings Page](images/image3.png)
+
+### 6. Providers Page
+![Providers Page](images/image4.png)
+
+---
 
 ## Database Schema
 
